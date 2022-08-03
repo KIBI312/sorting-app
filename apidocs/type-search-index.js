@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.kibi312","l":"App"},{"p":"com.kibi312","l":"ProcessArgs"},{"p":"com.kibi312","l":"Sorting"}];updateSearchResults();
